@@ -1,3 +1,1 @@
-# BigData
-
-## Kasus bunuh diri di dunia
+# Suicides Data Analysis
